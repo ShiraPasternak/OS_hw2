@@ -1,0 +1,3 @@
+C:/Users/shira/Documents/OS/HW2/cmake-build-debug/CMakeFiles/HW2.dir
+C:/Users/shira/Documents/OS/HW2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shira/Documents/OS/HW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
